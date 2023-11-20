@@ -10,9 +10,9 @@ Pivotal advances in our understanding of the developing human mind have systemat
 
 8:30-8:35 - <i> Introduction & workshop goals </i>, Barbara Pomiechowska (University of Birmingham)
 
-8:35-9:20 Session 1: <p style="color: green;"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></p>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+8:35-9:20 Session 1: <p style="color: green"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></p>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 Session 2: <p style="color: green;"><i> Awake, task-based fMRI as a window into infant perception and memory </i></p>, Tristan Yates (Columbia University)
+9:20-10:05 Session 2: <p style="color: green"><i> Awake, task-based fMRI as a window into infant perception and memory </i></p>, Tristan Yates (Columbia University)
 
 10:05-10:30 coffee 
 
