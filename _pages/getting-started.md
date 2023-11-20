@@ -32,7 +32,7 @@ Organizers: Barbara Pomiechowska (Univesity of Birmingham), Moritz Köster (Univ
 
 ### Speakers
 
-<img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
+<img src="/images/lauriebayet.jpeg" alt="" class="round-image">
 
 Laurie Baeyet (American University) <a href = "https://www.bayetlab.com/ ">web</a>
 Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant cognitive development and high-level vision. Her lab combines electro-encephalography (EEG), behavioral methods, and computational tools to uncover how infants and young children learn to interpret complex visual objects, such as visual objects that are relevant to affective, social communication.
@@ -46,7 +46,7 @@ Dr Jessica Dubois is a French researcher with a background in engineering and a 
 
 web: https://jessica-dubois.weebly.com/
 
-<img src="/images/moritzkoster.jpg" alt="Jessica Dubois" class="round-image">
+<img src="/images/moritzkoster.jpeg" alt="Jessica Dubois" class="round-image">
 
 Moritz Köster (Universität Regensburg) <a href ="https://www.uni-regensburg.de/humanwissenschaften/entwicklungs-und-kognitionspsychologie/home/index.html"> web </a>
 
