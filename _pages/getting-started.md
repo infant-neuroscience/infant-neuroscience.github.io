@@ -8,7 +8,7 @@ Pivotal advances in our understanding of the developing human mind have systemat
 
 ### Program
 
-8:30-8:35 - Intro & workshop goals, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <i> Introduction & workshop goals </i>, Barbara Pomiechowska (University of Birmingham)
 
 8:35-9:20 Session 1: <p style="color: green;"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></p>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
@@ -38,11 +38,13 @@ Dr Jessica Dubois is a French researcher with a background in engineering and a 
 
 web: https://jessica-dubois.weebly.com/
 
-Moritz Köster (Universität Regensburg)
+<img src="/images/moritzkoster.jpg" alt="Jessica Dubois" class="round-image">
+
+Moritz Köster (Universität Regensburg) <a href ="https://www.uni-regensburg.de/humanwissenschaften/entwicklungs-und-kognitionspsychologie/home/index.html"> web </a>
 
 Dr Moritz Köster  is Professor for Developmental Cognitive Psychology at the University of Regensburg, conducting research in development cognitive (neuro-)science, cross-cultural developmental psychology. I have/M has formerly held PostDoc positions at the Freie Universität Berlin, the MPI for Cognitive Brain Science in Leipzig, as well as the Kyoto University and completed a PhD specializing in cognitive neuroscience (2018) and a PhD specializing in Developmental Psychology.
 
-web: https://www.uni-regensburg.de/humanwissenschaften/entwicklungs-und-kognitionspsychologie/home/index.html 
+<img src="/images/barbarapomiechowska.jpg" alt="Jessica Dubois" class="round-image">
 
 Barbara Pomiechowska (University of Birmingham)
 
