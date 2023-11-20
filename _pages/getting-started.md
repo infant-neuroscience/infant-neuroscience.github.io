@@ -39,7 +39,7 @@ Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant
 
 web: https://www.bayetlab.com/ 
 
-<img src="/images/galaxy.jpg" alt="Jessica Dubois" class="round-image">
+<img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
 
 Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
@@ -58,6 +58,8 @@ Barbara Pomiechowska (University of Birmingham)
 Dr Barbara Pomiechowska is a developmental cognitive neuroscientist. By studying infants and young children, she wants to find out how humans learn and create new knowledge. She is an Assistant Professor at the University of Birmingham, UK.
 
 web: https://bpomie.github.io/ 
+
+<img src="/images/tristanyates.jpeg" alt="Jessica Dubois" class="round-image">
 
 Tristan Yates (Columbia University)
 
