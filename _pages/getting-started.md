@@ -10,9 +10,7 @@ Pivotal advances in our understanding of the developing human mind have systemat
 
 8:30-8:35 - Intro & workshop goals, Barbara Pomiechowska
 
-8:35-9:20 Session 1: Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
-
-During the prenatal and early postnatal period, intense brain development relies on complex mechanisms, interacting and modulated by genetic, epigenetic and activity-dependent factors. In recent years, infant neuroimaging has provided us with in vivo markers of these mechanisms and shown the early architecture and progressive maturation of brain networks. In this talk, I will discuss the functional significance of specific anatomical processes such as brain folding and myelination, based on recent studies comparing complementary measures of magnetic resonance imaging (MRI), electroencephalography (EEG) and longitudinal behavioral assessments.
+8:35-9:20 Session 1: <i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
 9:20-10:05 Session 2: Awake, task-based fMRI as a window into infant perception and memory, Tristan Yates (Columbia University)
 
