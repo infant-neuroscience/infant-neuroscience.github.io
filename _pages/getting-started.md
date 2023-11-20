@@ -6,7 +6,9 @@ permalink: /getting-started/
 ### Advances in Infant Neuroscience
 ### What state-of-the-art imaging can reveal about the developing mind?
 
+Pivotal advances in our understanding of the developing human mind have systematically been made possible by progress in experimental methodologies. Cognitive neuroscience has recently seen a great rise of new technologies and data analysis techniques that allow us to study neural processes underlying cognition with ever greater insight. Our workshop aims to introduce a tailored selection of those techniques, best suited for studying infants, to the cognitive development community and place them within the context of brain development during the first year of life. Specifically, we will cover fMRI in awake infants, frequency tagging, decoding and representational similarity analysis. We will discuss how to best use these methods to address and (hopefully answer) deep questions about infant cognition. During a practical session, participants will have the opportunity to brainstorm experimental applications in their areas of research and consult with the experts.
 
+Our main motivation is twofold: (1) to equip developmental scientists with conceptual understanding of state-of-the art cognitive neuroscience tools that will enable them to use these tools in their future work; (2) to showcase important questions about human cognition that these methods allow to tackle. We will also point participants to tutorials and computing tools which they can use to implement the discussed concepts, and should there be interest we will organize a follow-up on-line walk-through about the most in-demand methods.
 
 
 ### Program
