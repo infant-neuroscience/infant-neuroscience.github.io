@@ -1,17 +1,17 @@
 ---
-layout: page
+layout: default
 #title:  
 permalink: /getting-started/
 ---
 
-### Advances in infant neuroscience: <br> What state-of-the-art imaging can reveal about the developing mind?
+
 #### 4 January 2024, 8:30 AM - 12:30 PM CET <br> a BCCCD 2023 workshop, Bupdest & on-line
 
 Pivotal advances in our understanding of the developing human mind have systematically been made possible by progress in experimental methodologies. Cognitive neuroscience has recently seen a great rise of new technologies and data analysis techniques that allow us to study neural processes underlying cognition with ever greater insight. Our workshop aims to introduce a tailored selection of those techniques, best suited for studying infants, to the cognitive development community and place them within the context of brain development during the first year of life. Specifically, we will cover fMRI in awake infants, frequency tagging, decoding and representational similarity analysis. We will discuss how to best use these methods to address and (hopefully answer) deep questions about infant cognition. During a practical session, participants will have the opportunity to brainstorm experimental applications in their areas of research and consult with the experts.
 
 ### Program
 
-8:30-8:35 - <i> Introduction & workshop goals </i>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <p style="color: green"><i> Introduction & workshop goals </i></p>, Barbara Pomiechowska (University of Birmingham)
 
 8:35-9:20 Session 1: <i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
