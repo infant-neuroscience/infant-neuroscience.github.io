@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:  
 permalink: /getting-started/
 ---
 ## Advances in Infant Neuroscience
