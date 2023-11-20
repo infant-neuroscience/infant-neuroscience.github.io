@@ -4,8 +4,8 @@ layout: page
 permalink: /getting-started/
 ---
 
-# Advances in infant neuroscience:
-## What state-of-the-art imaging can reveal about the developing mind?
+<h1> Advances in infant neuroscience: </h1>
+<h2> What state-of-the-art imaging can reveal about the developing mind? </h2>
 
 #### 4 January 2024 <br> 8:30 AM - 12:30 PM CET <br> Bupdest & on-line
 
