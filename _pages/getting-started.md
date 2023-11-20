@@ -1,7 +1,7 @@
 ---
 layout: page
 #title:  
-permalink: /Program & Speakers/
+permalink: /getting-started/
 ---
 
 Pivotal advances in our understanding of the developing human mind have systematically been made possible by progress in experimental methodologies. Cognitive neuroscience has recently seen a great rise of new technologies and data analysis techniques that allow us to study neural processes underlying cognition with ever greater insight. Our workshop aims to introduce a tailored selection of those techniques, best suited for studying infants, to the cognitive development community and place them within the context of brain development during the first year of life. Specifically, we will cover fMRI in awake infants, frequency tagging, decoding and representational similarity analysis. We will discuss how to best use these methods to address and (hopefully answer) deep questions about infant cognition. During a practical session, participants will have the opportunity to brainstorm experimental applications in their areas of research and consult with the experts.
@@ -25,14 +25,15 @@ Pivotal advances in our understanding of the developing human mind have systemat
 
 ### Speakers
 
-Laurie Baeyet (American University)
-Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant cognitive development and high-level vision. Her lab combines electro-encephalography (EEG), behavioral methods, and computational tools to uncover how infants and young children learn to interpret complex visual objects, such as visual objects that are relevant to affective, social communication.
+<img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
 
-web: https://www.bayetlab.com/ 
+Laurie Baeyet (American University) <a href = "https://www.bayetlab.com/ ">web</a>
+Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant cognitive development and high-level vision. Her lab combines electro-encephalography (EEG), behavioral methods, and computational tools to uncover how infants and young children learn to interpret complex visual objects, such as visual objects that are relevant to affective, social communication.
 
 <img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
 
-Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+#### Jessica Dubois 
+(INSERM, CEA, Université Paris-Cité) <a href = "">web</a>
 
 Dr Jessica Dubois is a French researcher with a background in engineering and a PhD in physics and neuroscience. She co-leads the inDEV (Imaging Neurodevelopmental Phenotypes) team, between the Robert-Debré pediatric hospital (Paris) and the NeuroSpin center (Saclay). Her research focuses on the early development of the human brain, studied by neuroimaging in infants.
 
