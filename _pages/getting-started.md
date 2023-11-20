@@ -1,17 +1,21 @@
 ---
-layout: default
+layout: page
 #title:  
 permalink: /getting-started/
 ---
 
+Advances in infant neuroscience:
+What state-of-the-art imaging can reveal about the developing mind?
 
-#### 4 January 2024, 8:30 AM - 12:30 PM CET <br> a BCCCD 2023 workshop, Bupdest & on-line
+4 January 2024, 8:30 AM - 12:30 PM CET <br> a BCCCD 2023 workshop, Bupdest & on-line
 
 Pivotal advances in our understanding of the developing human mind have systematically been made possible by progress in experimental methodologies. Cognitive neuroscience has recently seen a great rise of new technologies and data analysis techniques that allow us to study neural processes underlying cognition with ever greater insight. Our workshop aims to introduce a tailored selection of those techniques, best suited for studying infants, to the cognitive development community and place them within the context of brain development during the first year of life. Specifically, we will cover fMRI in awake infants, frequency tagging, decoding and representational similarity analysis. We will discuss how to best use these methods to address and (hopefully answer) deep questions about infant cognition. During a practical session, participants will have the opportunity to brainstorm experimental applications in their areas of research and consult with the experts.
 
+Organizers: Barbara Pomiechowska (Univesity of Birmingham), Moritz Köster (Universität Regensburg)
+
 ### Program
 
-8:30-8:35 - <p style="color: green"><i> Introduction & workshop goals </i></p>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <i> Introduction & workshop goals</i>, Barbara Pomiechowska (University of Birmingham)
 
 8:35-9:20 Session 1: <i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
@@ -63,3 +67,5 @@ Tristan Yates (Columbia University)
 Dr. Tristan Yates is a Postdoctoral Research Scientist at Columbia University working with Dr. Nim Tottenham. She received her Ph.D. in cognitive psychology from Yale University under the mentorship of Dr. Nicholas Turk-Browne. Her research focuses on the neural mechanisms that underlie perception and memory in early development using fMRI.
 
 web: https://tristansyates.github.io/ 
+
+### Organizers
