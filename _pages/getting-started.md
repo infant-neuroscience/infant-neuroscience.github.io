@@ -39,6 +39,8 @@ Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant
 
 web: https://www.bayetlab.com/ 
 
+<img src="galaxy.jpg" alt="Jessica Dubois" class="round-image">
+
 Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
 Dr Jessica Dubois is a French researcher with a background in engineering and a PhD in physics and neuroscience. She co-leads the inDEV (Imaging Neurodevelopmental Phenotypes) team, between the Robert-Debré pediatric hospital (Paris) and the NeuroSpin center (Saclay). Her research focuses on the early development of the human brain, studied by neuroimaging in infants.
