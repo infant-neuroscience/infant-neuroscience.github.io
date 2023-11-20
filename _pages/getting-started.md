@@ -39,7 +39,7 @@ Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant
 
 web: https://www.bayetlab.com/ 
 
-<img src="galaxy.jpg" alt="Jessica Dubois" class="round-image">
+<img src="/images/galaxy.jpg" alt="Jessica Dubois" class="round-image">
 
 Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
