@@ -28,12 +28,12 @@ permalink: /getting-started/
 
 <img src="/images/lauriebayet.jpeg" alt="" class="round-image">
 
-Laurie Baeyet (American University) <a href = "https://www.bayetlab.com/ ">web</a>
+<h4> Laurie Baeyet <br> American University <br> <a href = "https://www.bayetlab.com/ ">web</a></h4>
 Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant cognitive development and high-level vision. Her lab combines electro-encephalography (EEG), behavioral methods, and computational tools to uncover how infants and young children learn to interpret complex visual objects, such as visual objects that are relevant to affective, social communication.
 
 <img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
 
-<h4> Jessica Dubois <br> (INSERM, CEA, Université Paris-Cité) <a href = "">web</a></h4>
+<h4> Jessica Dubois <br> INSERM, CEA, Université Paris-Cité <br> <a href = "">web</a></h4>
 
 
 Dr Jessica Dubois is a French researcher with a background in engineering and a PhD in physics and neuroscience. She co-leads the inDEV (Imaging Neurodevelopmental Phenotypes) team, between the Robert-Debré pediatric hospital (Paris) and the NeuroSpin center (Saclay). Her research focuses on the early development of the human brain, studied by neuroimaging in infants.
