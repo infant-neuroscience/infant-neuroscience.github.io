@@ -9,36 +9,34 @@ permalink: /getting-started/
 
 ### Program
 
-8:30-8:35 - <i> Introduction & workshop goals</i>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <font color="magenta"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
 
-8:35-9:20 Session 1: <i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+8:35-9:20 <font color="green"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 Session 2: <i> Awake, task-based fMRI as a window into infant perception and memory</i>, Tristan Yates (Columbia University)
+9:20-10:05 <i> Awake, task-based fMRI as a window into infant perception and memory</i>, Tristan Yates (Columbia University)
 
 10:05-10:30 coffee 
 
-10:30-11:15 Session 3: <i> Brain rhythms and entrainment in developmental neuroscience</i>, Moritz Köster
+10:30-11:15 <i> Brain rhythms and entrainment in developmental neuroscience</i>, Moritz Köster
 
-11:15-12:00 Session 4: <i> From responses to representations in developmental neuroimaging</i>, Laurie Bayet
+11:15-12:00 <i> From responses to representations in developmental neuroimaging</i>, Laurie Bayet
 
-12:00-12:30 Session 5: <i> Hands-on practical on experimental design </i>, moderation: Barbara Pomiechowska (University of Birmingham)
+12:00-12:30 <i> Hands-on practical on experimental design </i>, moderation: Barbara Pomiechowska (University of Birmingham)
 
 
 ### Speakers
 
 <img src="/images/lauriebayet.jpeg" alt="" class="round-image">
 
-<h4> Laurie Baeyet <br> American University <br> <a href = "https://www.bayetlab.com/ ">web</a></h4>
+<h4> Laurie Bayet <br> American University <br> <a href = "https://www.bayetlab.com/ ">web</a></h4>
 Dr Laurie Bayet is a developmental cognitive neuroscientist interested in infant cognitive development and high-level vision. Her lab combines electro-encephalography (EEG), behavioral methods, and computational tools to uncover how infants and young children learn to interpret complex visual objects, such as visual objects that are relevant to affective, social communication.
 
 <img src="/images/jessicadubois.png" alt="Jessica Dubois" class="round-image">
 
-<h4> Jessica Dubois <br> INSERM, CEA, Université Paris-Cité <br> <a href = "">web</a></h4>
+<h4> Jessica Dubois <br> INSERM, CEA, Université Paris-Cité <br> <a href = "https://jessica-dubois.weebly.com/">web</a></h4>
 
 
 Dr Jessica Dubois is a French researcher with a background in engineering and a PhD in physics and neuroscience. She co-leads the inDEV (Imaging Neurodevelopmental Phenotypes) team, between the Robert-Debré pediatric hospital (Paris) and the NeuroSpin center (Saclay). Her research focuses on the early development of the human brain, studied by neuroimaging in infants.
-
-web: https://jessica-dubois.weebly.com/
 
 <img src="/images/moritzkoster.jpeg" alt="Jessica Dubois" class="round-image">
 
