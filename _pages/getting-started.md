@@ -8,27 +8,20 @@ Pivotal advances in our understanding of the developing human mind have systemat
 
 ### Program
 
-8:30-8:35 - Intro & workshop goals, Barbara Pomiechowska
+8:30-8:35 - Intro & workshop goals, Barbara Pomiechowska (University of Birmingham)
 
 8:35-9:20 Session 1: <i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 Session 2: Awake, task-based fMRI as a window into infant perception and memory, Tristan Yates (Columbia University)
+9:20-10:05 Session 2: <b><i> Awake, task-based fMRI as a window into infant perception and memory </i></b>, Tristan Yates (Columbia University)
 
-Functional magnetic resonance imaging (fMRI) is the dominant neuroscientific method for studying cognitive processes in adults, adolescents, and older children. However, up until recently, infants and toddlers have been notably absent from (awake, task-based) fMRI research, given the difficulties associated with data collection. In this talk, I will present an overview of awake infant fMRI as a tool for understanding the infant mind. I will argue that the properties of fMRI (e.g., whole-brain resolution, access to midline and deep brain structures, well-established paradigms/analyses from adult neuroscience) are well-suited for answering questions about how infants perceive and remember their world. 
+10:05-10:30 coffee 
 
-10:05-10:30 coffee break
+10:30-11:15 Session 3: <b><i> Brain rhythms and entrainment in developmental neuroscience </i></b>, Moritz Köster
 
-10:30-11:15 Session 3: Brain rhythms and entrainment in developmental neuroscience, Moritz Köster
+11:15-12:00 Session 4: <b><i> From responses to representations in developmental neuroimaging </i></b>, Laurie Bayet
 
-Rhythmic visual stimulation (RVS) has long been used to study the development of the visual system and applications have more recently been expanded to uncover higher cognitive functions in the developing brain, including overt and covert attention, face and object perception, numeral cognition, and predictive processing. These insights are owed to the unique benefits of RVS, such as the targeted frequency and stimulus-specific neural responses, as well as a remarkable signal-to-noise ratio. Yet, neural mechanisms underlying the RVS response are still poorly understood. I will introduce the topic of neural oscillations and discuss advances and challenges in developmental RVS studies.
+12:00-12:30 Session 5: <b><i> Hands-on practical on experimental design </i></b>, moderation: Barbara Pomiechowska (University of Birmingham)
 
-11:15-12:00 Session 4: From responses to representations in developmental neuroimaging, Laurie Bayet
-
-Multivariate, “decoding” approaches to neuroimaging provide a window into the developmental origins of perceptual and cognitive representations. This talk will show how these computational tools, such as multivariate pattern analysis and representational similarity analysis, may be applied to characterize the temporal dynamics and properties of perceptual representations in the developing brain.
-
-12:00-12:30 Session 5: Hands-on practical on experimental design, moderation: Barbara Pomiechowska (University of Birmingham)
-
-This session will be dedicated to experimental design. Participants will work in groups to brainstorm about applying a technique of their choice to their research areas. The experts will advise them and address their questions.
 
 ### Speakers
 
