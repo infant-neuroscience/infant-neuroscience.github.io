@@ -9,15 +9,15 @@ permalink: /getting-started/
 
 ### Program
 
-8:30-8:35 - <font color="magenta"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <font color="purple"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
 
-8:35-9:20 <font color="green"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+8:35-9:20 <font color="purple"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 <i> Awake, task-based fMRI as a window into infant perception and memory</i>, Tristan Yates (Columbia University)
+9:20-10:05 <font color="blue"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
 
 10:05-10:30 coffee 
 
-10:30-11:15 <i> Brain rhythms and entrainment in developmental neuroscience</i>, Moritz Köster
+10:30-11:15 <font color="blue"><i><i> Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
 
 11:15-12:00 <i> From responses to representations in developmental neuroimaging</i>, Laurie Bayet
 
@@ -46,19 +46,16 @@ Dr Moritz Köster  is Professor for Developmental Cognitive Psychology at the Un
 
 <img src="/images/barbarapomiechowska.jpg" alt="Jessica Dubois" class="round-image">
 
-Barbara Pomiechowska (University of Birmingham)
+<h4> Barbara Pomiechowska <br> University of Birmingham <br> <a href ="https://bpomie.github.io/"> web </a> </h4>
 
 Dr Barbara Pomiechowska is a developmental cognitive neuroscientist. By studying infants and young children, she wants to find out how humans learn and create new knowledge. She is an Assistant Professor at the University of Birmingham, UK.
 
-web: https://bpomie.github.io/ 
-
 <img src="/images/tristanyates.jpeg" alt="Jessica Dubois" class="round-image">
 
-Tristan Yates (Columbia University)
+<h4> Tristan Yates <br> Columbia University <br>
+<a href ="https://tristansyates.github.io/"> web </a></h4>
 
-Dr. Tristan Yates is a Postdoctoral Research Scientist at Columbia University working with Dr. Nim Tottenham. She received her Ph.D. in cognitive psychology from Yale University under the mentorship of Dr. Nicholas Turk-Browne. Her research focuses on the neural mechanisms that underlie perception and memory in early development using fMRI.
-
-web: https://tristansyates.github.io/ 
+Dr. Tristan Yates is a Postdoctoral Research Scientist at Columbia University working with Dr. Nim Tottenham. She received her Ph.D. in cognitive psychology from Yale University under the mentorship of Dr. Nicholas Turk-Browne. Her research focuses on the neural mechanisms that underlie perception and memory in early development using fMRI. 
 
 ### Organizers
 
