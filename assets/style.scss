@@ -64,11 +64,13 @@ h1 {
   font-size: 30px;
   a {
     color: inherit;
+    text-align: left;
   }
 }
 
 h2 {
   font-size: 24px;
+  text-align: left;
 }
 
 @media (min-width: 769px){
