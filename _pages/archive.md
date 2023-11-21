@@ -32,7 +32,7 @@ permalink: /archive/
 
 <h4> Session 3 </h4>
 
-<font color="#737CA1"><i>Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
+<i>Brain rhythms and entrainment in developmental neuroscience</i>, Moritz Köster
 
 <i>Abstract</i>: Rhythmic visual stimulation (RVS) has long been used to study the development of the visual system and applications have more recently been expanded to uncover higher cognitive functions in the developing brain, including overt and covert attention, face and object perception, numeral cognition, and predictive processing. These insights are owed to the unique benefits of RVS, such as the targeted frequency and stimulus-specific neural responses, as well as a remarkable signal-to-noise ratio. Yet, neural mechanisms underlying the RVS response are still poorly understood. I will introduce the topic of neural oscillations and discuss advances and challenges in developmental RVS studies.
 
@@ -45,7 +45,7 @@ permalink: /archive/
 
 <h4> Session 4 </h4>
 
-<font color="#737CA1"><i> From responses to representations in developmental neuroimaging</i></font>, Laurie Bayet
+<i> From responses to representations in developmental neuroimaging</i>, Laurie Bayet
 
 <i>Abstract</i>: Multivariate, “decoding” approaches to neuroimaging provide a window into the developmental origins of perceptual and cognitive representations. This talk will show how these computational tools, such as multivariate pattern analysis and representational similarity analysis, may be applied to characterize the temporal dynamics and properties of perceptual representations in the developing brain.
 
