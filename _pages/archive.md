@@ -6,7 +6,7 @@ permalink: /archive/
 
 <h4> Session 1 </h4>
 
-<font color="#737CA1"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+<i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
 <i>Abstract</i>: During the prenatal and early postnatal period, intense brain development relies on complex mechanisms, interacting and modulated by genetic, epigenetic and activity-dependent factors. In recent years, infant neuroimaging has provided us with in vivo markers of these mechanisms and shown the early architecture and progressive maturation of brain networks. In this talk, I will discuss the functional significance of specific anatomical processes such as brain folding and myelination, based on recent studies comparing complementary measures of magnetic resonance imaging (MRI), electroencephalography (EEG) and longitudinal behavioral assessments.
 
@@ -19,7 +19,7 @@ de Vareilles H, Rivière D, Mangin JF, Dubois J. Development of cortical folds i
 
 <font color="#737CA1"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
 
-Functional magnetic resonance imaging (fMRI) is the dominant neuroscientific method for studying cognitive processes in adults, adolescents, and older children. However, up until recently, infants and toddlers have been notably absent from (awake, task-based) fMRI research, given the difficulties associated with data collection. In this talk, I will present an overview of awake infant fMRI as a tool for understanding the infant mind. I will argue that the properties of fMRI (e.g., whole-brain resolution, access to midline and deep brain structures, well-established paradigms/analyses from adult neuroscience) are well-suited for answering questions about how infants perceive and remember their world. 
+<i>Abstract</i>: Functional magnetic resonance imaging (fMRI) is the dominant neuroscientific method for studying cognitive processes in adults, adolescents, and older children. However, up until recently, infants and toddlers have been notably absent from (awake, task-based) fMRI research, given the difficulties associated with data collection. In this talk, I will present an overview of awake infant fMRI as a tool for understanding the infant mind. I will argue that the properties of fMRI (e.g., whole-brain resolution, access to midline and deep brain structures, well-established paradigms/analyses from adult neuroscience) are well-suited for answering questions about how infants perceive and remember their world. 
 
 <i>Readings</i>:
 
@@ -31,7 +31,7 @@ Yates, T. S., Ellis, C. T., & Turk-Browne, N. B. (2021). The promise of awake be
 
 <font color="#737CA1"><i>Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
 
-Rhythmic visual stimulation (RVS) has long been used to study the development of the visual system and applications have more recently been expanded to uncover higher cognitive functions in the developing brain, including overt and covert attention, face and object perception, numeral cognition, and predictive processing. These insights are owed to the unique benefits of RVS, such as the targeted frequency and stimulus-specific neural responses, as well as a remarkable signal-to-noise ratio. Yet, neural mechanisms underlying the RVS response are still poorly understood. I will introduce the topic of neural oscillations and discuss advances and challenges in developmental RVS studies.
+<i>Abstract</i>: Rhythmic visual stimulation (RVS) has long been used to study the development of the visual system and applications have more recently been expanded to uncover higher cognitive functions in the developing brain, including overt and covert attention, face and object perception, numeral cognition, and predictive processing. These insights are owed to the unique benefits of RVS, such as the targeted frequency and stimulus-specific neural responses, as well as a remarkable signal-to-noise ratio. Yet, neural mechanisms underlying the RVS response are still poorly understood. I will introduce the topic of neural oscillations and discuss advances and challenges in developmental RVS studies.
 
 <i>Readings</i>:
 
@@ -43,7 +43,7 @@ Köster, M., Brzozowska, A., Bánki, A., Tünte, M., Ward, E. & Hoehl, S. (resub
 
 <font color="#737CA1"><i> From responses to representations in developmental neuroimaging</i></font>, Laurie Bayet
 
-Multivariate, “decoding” approaches to neuroimaging provide a window into the developmental origins of perceptual and cognitive representations. This talk will show how these computational tools, such as multivariate pattern analysis and representational similarity analysis, may be applied to characterize the temporal dynamics and properties of perceptual representations in the developing brain.
+<i>Abstract</i>: Multivariate, “decoding” approaches to neuroimaging provide a window into the developmental origins of perceptual and cognitive representations. This talk will show how these computational tools, such as multivariate pattern analysis and representational similarity analysis, may be applied to characterize the temporal dynamics and properties of perceptual representations in the developing brain.
 
 <i>Readings</i>:
 
