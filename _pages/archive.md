@@ -39,7 +39,7 @@ permalink: /archive/
 <i>Readings</i>:
 
 <ul class="hyphen-list">
-  <li>1Köster, M., & Gruber, T. (2022). Rhythms of human attention and memory: An embedded process perspective. Frontiers in Human Neuroscience. <a href = ""> </a></li>
+  <li>Köster, M., & Gruber, T. (2022). Rhythms of human attention and memory: An embedded process perspective. Frontiers in Human Neuroscience. <a href = ""> </a></li>
   <li>Köster, M., Brzozowska, A., Bánki, A., Tünte, M., Ward, E. & Hoehl, S. (resubmitted) Rhythmic visual stimulation as a window into early brain development: a systematic review. <a href = ""> </a></li>
 </ul>
 
