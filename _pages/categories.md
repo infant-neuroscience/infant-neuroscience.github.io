@@ -12,5 +12,5 @@ You can find more details about the conference here.
 
 <b> 2 Join us on-line. </b>
 
-The talks will be streamed live: register here (no fees apply).
+The talks will be streamed live: <a href = "https://forms.office.com/e/B6hCgcBza2">register here</a> (no fees apply).
 
