@@ -13,8 +13,8 @@ permalink: /archive/
 <i>Readings</i>:
 
 <ul class="hyphen-list">
-  <li>Dubois, J., Alison, M., Counsell, S. J., Hertz‐Pannier, L., Hüppi, P. S., & Benders, M. J. (2021). MRI of the neonatal brain: a review of methodological challenges and neuroscientific advances. <i>Journal of Magnetic Resonance Imaging </i>, 53(5), 1318-1343. <a href = "https://doi.org/10.1002/jmri.27192">https://doi.org/10.1002/jmri.27192</a></li>
-  <li>de Vareilles, H., Rivière, D., Mangin, J. F., & Dubois, J. (2023). Development of cortical folds in the human brain: an attempt to review biological hypotheses, early neuroimaging investigations and functional correlates. <i> Developmental Cognitive Neuroscience </i>, 101249. <a href = "https://doi.org/10.1016/j.dcn.2023.101249">https://doi.org/10.1016/j.dcn.2023.101249</a></li>
+  <li>Dubois, J., Alison, M., Counsell, S. J., Hertz‐Pannier, L., Hüppi, P. S., & Benders, M. J. (2021). MRI of the neonatal brain: a review of methodological challenges and neuroscientific advances. <i>Journal of Magnetic Resonance Imaging </i>, 53(5), 1318-1343. <a href = "https://doi.org/10.1002/jmri.27192" target="_blank">https://doi.org/10.1002/jmri.27192</a></li>
+  <li>de Vareilles, H., Rivière, D., Mangin, J. F., & Dubois, J. (2023). Development of cortical folds in the human brain: an attempt to review biological hypotheses, early neuroimaging investigations and functional correlates. <i> Developmental Cognitive Neuroscience </i>, 101249. <a href = "https://doi.org/10.1016/j.dcn.2023.101249" target="_blank">https://doi.org/10.1016/j.dcn.2023.101249</a></li>
 </ul>
 
 <h4> Session 2 </h4>
@@ -52,8 +52,8 @@ permalink: /archive/
 <i>Readings</i>:
 
 <ul class="hyphen-list">
-  <li>Bayet, L., Zinszer, B. D., Reilly, E., Cataldo, J. K., Pruitt, Z., Cichy, R. M., … Aslin, R. N. (2020). Temporal dynamics of visual representations in the infant brain. Developmental Cognitive Neuroscience, 45, 100860.  <a href = "https://doi.org/10.1016/j.dcn.2020.100860">https://doi.org/10.1016/j.dcn.2020.100860</a></li>
-  <li>Xie, S., Hoehl, S., Moeskops, M., Kayhan, E., Kliesch, C., Turtleton, B., … & Cichy, R. M. (2022). Visual category representations in the infant brain. Current Biology, 32(24), 5422-5432.  <a href = "https://doi.org/10.1016/j.cub.2022.11.016">https://doi.org/10.1016/j.cub.2022.11.016</a></li>
+  <li>Bayet, L., Zinszer, B. D., Reilly, E., Cataldo, J. K., Pruitt, Z., Cichy, R. M., … Aslin, R. N. (2020). Temporal dynamics of visual representations in the infant brain. Developmental Cognitive Neuroscience, 45, 100860.  <a href = "https://doi.org/10.1016/j.dcn.2020.100860" target="_blank">https://doi.org/10.1016/j.dcn.2020.100860</a></li>
+  <li>Xie, S., Hoehl, S., Moeskops, M., Kayhan, E., Kliesch, C., Turtleton, B., … & Cichy, R. M. (2022). Visual category representations in the infant brain. Current Biology, 32(24), 5422-5432.  <a href = "https://doi.org/10.1016/j.cub.2022.11.016" target="_blank">https://doi.org/10.1016/j.cub.2022.11.016</a></li>
 </ul>
 
 
