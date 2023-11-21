@@ -9,19 +9,19 @@ permalink: /getting-started/
 
 ### Program
 
-8:30-8:35 - <font color="purple"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <font color="green"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
 
-8:35-9:20 <font color="purple"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+8:35-9:20 <font color="green"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 <font color="blue"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
+9:20-10:05 <font color="green"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
 
 10:05-10:30 coffee 
 
-10:30-11:15 <font color="blue"><i><i> Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
+10:30-11:15 <font color="green"><i>Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
 
-11:15-12:00 <i> From responses to representations in developmental neuroimaging</i>, Laurie Bayet
+11:15-12:00 <font color="green"><i> From responses to representations in developmental neuroimaging</i></font>, Laurie Bayet
 
-12:00-12:30 <i> Hands-on practical on experimental design </i>, moderation: Barbara Pomiechowska (University of Birmingham)
+12:00-12:30 <font color="green"><i> Hands-on practical on experimental design </i></font>, moderation: Barbara Pomiechowska (University of Birmingham)
 
 
 ### Speakers
