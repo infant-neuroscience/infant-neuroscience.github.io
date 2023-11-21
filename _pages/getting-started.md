@@ -17,9 +17,9 @@ permalink: /getting-started/
 
 10:05-10:30 coffee 
 
-10:30-11:15 <font color="#737CA1"><i>Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster
+10:30-11:15 <font color="#737CA1"><i>Brain rhythms and entrainment in developmental neuroscience</i></font>, Moritz Köster (Universität Regensburg)
 
-11:15-12:00 <font color="#737CA1"><i> From responses to representations in developmental neuroimaging</i></font>, Laurie Bayet
+11:15-12:00 <font color="#737CA1"><i> From responses to representations in developmental neuroimaging</i></font>, Laurie Bayet (American University)
 
 12:00-12:30 <font color="#737CA1"><i> Hands-on practical on experimental design </i></font>, moderation: Barbara Pomiechowska (University of Birmingham)
 
@@ -60,3 +60,16 @@ Dr. Tristan Yates is a Postdoctoral Research Scientist at Columbia University wo
 ### Organizers
 
 Barbara Pomiechowska (Univesity of Birmingham), Moritz Köster (Universität Regensburg)
+
+### Participate
+
+There are two ways to partipate:
+
+<b> 1 Join us in person at the BCCCD 2023.</b>
+
+You can find more details about the conference here.
+
+<b> 2 Join us on-line. </b>
+
+The talks will be streamed live: register here (no fees apply).
+
