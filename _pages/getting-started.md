@@ -40,7 +40,7 @@ Dr Jessica Dubois is a French researcher with a background in engineering and a 
 
 <img src="/images/moritzkoster.jpeg" alt="Jessica Dubois" class="round-image">
 
-Moritz Köster (Universität Regensburg) <a href ="https://www.uni-regensburg.de/humanwissenschaften/entwicklungs-und-kognitionspsychologie/home/index.html"> web </a>
+<h4> Moritz Köster <br> Universität Regensburg <br> <a href ="https://www.uni-regensburg.de/humanwissenschaften/entwicklungs-und-kognitionspsychologie/home/index.html"> web </a><.h4>
 
 Dr Moritz Köster  is Professor for Developmental Cognitive Psychology at the University of Regensburg, conducting research in development cognitive (neuro-)science, cross-cultural developmental psychology. I have/M has formerly held PostDoc positions at the Freie Universität Berlin, the MPI for Cognitive Brain Science in Leipzig, as well as the Kyoto University and completed a PhD specializing in cognitive neuroscience (2018) and a PhD specializing in Developmental Psychology.
 
