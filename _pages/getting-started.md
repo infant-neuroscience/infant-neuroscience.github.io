@@ -9,11 +9,11 @@ permalink: /getting-started/
 
 ### Program
 
-8:30-8:35 - <font color="green"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
+8:30-8:35 - <font color="#737CA1"><i> Introduction & workshop goals</i></font>, Barbara Pomiechowska (University of Birmingham)
 
-8:35-9:20 <font color="green"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
+8:35-9:20 <font color="#737CA1"><i> Exploring early brain development with infant neuroimaging: from structural foundations to the maturation of functional networks</i></font>, Jessica Dubois (INSERM, CEA, Université Paris-Cité)
 
-9:20-10:05 <font color="green"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
+9:20-10:05 <font color="#737CA1"><i> Awake, task-based fMRI as a window into infant perception and memory</i></font>, Tristan Yates (Columbia University)
 
 10:05-10:30 coffee 
 
