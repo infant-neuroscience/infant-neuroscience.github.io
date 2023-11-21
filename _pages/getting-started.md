@@ -48,7 +48,7 @@ Dr Moritz Köster  is Professor for Developmental Cognitive Psychology at the Un
 
 <h4> Barbara Pomiechowska <br> University of Birmingham <br> <a href ="https://bpomie.github.io/"> web </a> </h4>
 
-Dr Barbara Pomiechowska is a developmental cognitive neuroscientist. By studying infants and young children, she wants to find out how humans learn and create new knowledge. She is an Assistant Professor at the University of Birmingham, UK.
+Dr Barbara Pomiechowska is a developmental cognitive neuroscientist. By studying infants and young children, she seeks to find out how humans learn and create new knowledge. She is an Assistant Professor at the University of Birmingham, UK.
 
 <img src="/images/tristanyates.jpeg" alt="Jessica Dubois" class="round-image">
 
