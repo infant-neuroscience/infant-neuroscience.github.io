@@ -11,9 +11,9 @@ permalink: /archive/
 <i>Abstract</i>: During the prenatal and early postnatal period, intense brain development relies on complex mechanisms, interacting and modulated by genetic, epigenetic and activity-dependent factors. In recent years, infant neuroimaging has provided us with in vivo markers of these mechanisms and shown the early architecture and progressive maturation of brain networks. In this talk, I will discuss the functional significance of specific anatomical processes such as brain folding and myelination, based on recent studies comparing complementary measures of magnetic resonance imaging (MRI), electroencephalography (EEG) and longitudinal behavioral assessments.
 
 <i>Readings</i>:
-Dubois, J., Alison, M., Counsell, S. J., Hertz‐Pannier, L., Hüppi, P. S., & Benders, M. J. (2021). MRI of the neonatal brain: a review of methodological challenges and neuroscientific advances. <i>Journal of Magnetic Resonance Imaging </i>, 53(5), 1318-1343. <a href = ""> </a>
+Dubois, J., Alison, M., Counsell, S. J., Hertz‐Pannier, L., Hüppi, P. S., & Benders, M. J. (2021). MRI of the neonatal brain: a review of methodological challenges and neuroscientific advances. <i>Journal of Magnetic Resonance Imaging </i>, 53(5), 1318-1343. <a href = "https://doi.org/10.1002/jmri.27192">https://doi.org/10.1002/jmri.27192</a>
 
-de Vareilles H, Rivière D, Mangin JF, Dubois J. Development of cortical folds in the human brain: An attempt to review biological hypotheses, early neuroimaging investigations and functional correlates. Developmental Cognitive Neuroscience 2023 <a href = ""> </a>
+de Vareilles, H., Rivière, D., Mangin, J. F., & Dubois, J. (2023). Development of cortical folds in the human brain: an attempt to review biological hypotheses, early neuroimaging investigations and functional correlates. <i> Developmental Cognitive Neuroscience </i>, 101249. <a href = "https://doi.org/10.1016/j.dcn.2023.101249">https://doi.org/10.1016/j.dcn.2023.101249</a>
 
 <h4> Session 2 </h4>
 
