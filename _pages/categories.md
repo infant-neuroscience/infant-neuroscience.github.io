@@ -6,9 +6,10 @@ permalink: /categories/
 
 There are two ways to partipate:
 
-<b> 1 Join us in person at the BCCCD 2023.</b>
+<b> 1 Join us in person at the BCCCD 2024.</b>
 
-You can find more details about the conference here.
+You can find more details about the conference here:
+<a href = "https://bcccd.org/"> BCCCD (Budapest CEU Conference on Cognitive Development 2024)</a>.
 
 <b> 2 Join us on-line. </b>
 
